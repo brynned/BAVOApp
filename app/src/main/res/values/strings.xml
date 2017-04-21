@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Persistent Data</string>
+
+    <string name="main_activity_title">Belles Against Violence Office</string>
+    <string name="first_name_tag">First Name:</string>
+    <string name="last_name_tag">Last Name:</string>
+    <string name="major_tag">Major:</string>
+    <string name="class_year_tag">Graduation Year:</string>
+    <string name="email_tag">SMC Email:</string>
+    <string name="submit">Submit</string>
+
+    <string name="entry_activity_title">Enter Your Information</string>
+
+    <string name="first_name_key">FIRST_NAME</string>
+    <string name="last_name_key">LAST_NAME</string>
+    <string name="major_key">MAJOR</string>
+    <string name="class_year_key">CLASS_YEAR</string>
+    <string name="email_key">EMAIL</string>
+    <string name="first_time">FIRST_TIME</string>
+</resources>
